@@ -13,6 +13,11 @@ To see the challenge [click here](https://www.codewell.cc/challenges/indiebrew-l
 
 ![](./src/assets/images/sign-up-form-page.gif)
 
+---
+<h3 align="center"> ⚡️ Demo: <a href='https://indie-brew-bay.vercel.app/'> IndieBrew </a> </h3>
+
+---
+
 
 ## Technologies used
 - HTML5
@@ -24,5 +29,5 @@ To see the challenge [click here](https://www.codewell.cc/challenges/indiebrew-l
 `react-router-dom` `react-icons` `styled-components`
 
 ## About me:
-- Instagram - [@naiandersonbruno_](https://www.instagram.com/naiandersonbruno_/)
+- Instagram - [@naiandersonb.dev](https://www.instagram.com/naiandersonb.dev/)
 - Linkedin - [Naianderson Bruno](www.linkedin.com/in/naianderson-bruno-franca)
