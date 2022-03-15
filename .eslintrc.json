@@ -28,6 +28,7 @@
     "max-len": 0,
     "react/jsx-one-expression-per-line": 0,
     "comma-dangle": 0,
-    "jsx-a11y/no-static-element-interactions": 0
+    "jsx-a11y/no-static-element-interactions": 0,
+    "react/no-unescaped-entities": 0
   }
 }

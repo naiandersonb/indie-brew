@@ -11,6 +11,8 @@ To see the challenge [click here](https://www.codewell.cc/challenges/indiebrew-l
 
 ![](./src/assets/images/indie-brew-homepage.gif)
 
+![](./src/assets/images/sign-up-form-page.gif)
+
 
 ## Technologies used
 - HTML5
@@ -20,3 +22,7 @@ To see the challenge [click here](https://www.codewell.cc/challenges/indiebrew-l
 
 ### libraries
 `react-router-dom` `react-icons` `styled-components`
+
+## About me:
+- Instagram - [@naiandersonbruno_](https://www.instagram.com/naiandersonbruno_/)
+- Linkedin - [Naianderson Bruno](www.linkedin.com/in/naianderson-bruno-franca)
